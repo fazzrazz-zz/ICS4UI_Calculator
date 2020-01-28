@@ -1,7 +1,7 @@
 # ICS4UI Final Project: Calculator
-This is a primative calculator, intended to resemble the vintage calculator aesthetic.
+This is a primative calculator, intended to resemble the vintage calculator aesthetic. It still maintains order of operations and other decently complex tasks.
 
-Still maintains order of operations and other decently complex tasks.
+LIkely not the final version, as this is a legacy copy found on an old harddrive.
 
 The calculator has function buttons (ex: sin, cos, tan) as well as numeric buttons (ex: 1, 2, 3, pi). 
 
